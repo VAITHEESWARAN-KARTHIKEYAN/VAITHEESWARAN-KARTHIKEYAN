@@ -2,9 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-@@ -18,28 +18,10 @@
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 
 [instagram]: https://www.instagram.com/the_wandering_zen/
